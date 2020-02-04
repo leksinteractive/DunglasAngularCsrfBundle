@@ -1,5 +1,5 @@
 {
-    "name": "dunglas/angular-csrf-bundle",
+    "name": "leksinteractive/angular-csrf-bundle",
     "type": "symfony-bundle",
     "description": "CSRF protection when using AngularJS with Symfony2",
     "keywords": ["csrf", "xsrf", "security", "angular", "react", "vue.js"],
@@ -7,9 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Kévin Dunglas",
-            "email": "dunglas@gmail.com",
-            "homepage": "https://dunglas.fr"
+            "name": "Aleks Sotirovski",
+            "email": "asotirovski@gmail.com"
         }
     ],
     "require": {
