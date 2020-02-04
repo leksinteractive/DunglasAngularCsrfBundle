@@ -104,7 +104,7 @@ class AngularCsrfCookieListener
             $this->cookieSecure,
             false /* httpOnly */,
             false /* raw */,
-            Cookie::SAMESITE_LAX
+            Cookie::SAMESITE_NONE
         ));
     }
 }
